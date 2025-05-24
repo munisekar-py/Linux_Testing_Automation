@@ -5,11 +5,18 @@ Linux_Testing_Automation
 As Per Task -1 , New developers need visibility into system resource usage for their tasks.
 Creating users with developer group
 
+Vaeified User Sarah able to access resources.
+
 ![image](https://github.com/user-attachments/assets/dbb6faf9-e279-4199-9420-cbd7b1a5c184)
 
+Disk And directory-level usage
+
+![image](https://github.com/user-attachments/assets/dfd1de3a-d5d6-43f2-ba97-7184388040e1)
+
+Top Process 
 
 
-![image](https://github.com/user-attachments/assets/bf9d745c-215d-4437-83e7-1875581b27ee)
+![image](https://github.com/user-attachments/assets/17d6913f-f04a-4731-8f24-6e63a2d90bc6)
 
 Task 2: User Management and Access Control
 
