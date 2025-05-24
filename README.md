@@ -5,7 +5,11 @@ Linux_Testing_Automation
 As Per Task -1 , New developers need visibility into system resource usage for their tasks.
 Creating users with developer group
 
+![image](https://github.com/user-attachments/assets/dbb6faf9-e279-4199-9420-cbd7b1a5c184)
 
+
+
+![image](https://github.com/user-attachments/assets/bf9d745c-215d-4437-83e7-1875581b27ee)
 
 Task 2: User Management and Access Control
 
