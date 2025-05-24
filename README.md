@@ -1,47 +1,26 @@
 # Linux_Testing_Automation
-Linux_Testing_Automation
+  Linux_Testing_Automation
 
 
-As Per Task -1 , New developers need visibility into system resource usage for their tasks.
-Creating users with developer group
-
-Vaeified User Sarah able to access resources.
-
-![image](https://github.com/user-attachments/assets/dbb6faf9-e279-4199-9420-cbd7b1a5c184)
-
-Disk And directory-level usage
-
-![image](https://github.com/user-attachments/assets/dfd1de3a-d5d6-43f2-ba97-7184388040e1)
-
-Top Process 
+**Task 1: System Monitoring Setup**
 
 
-![image](https://github.com/user-attachments/assets/17d6913f-f04a-4731-8f24-6e63a2d90bc6)
 
-Task 2: User Management and Access Control
-
-Create workspace directories
-
-![Screenshot from 2025-05-24 09-54-51](https://github.com/user-attachments/assets/64a123fe-9274-44af-96ab-ce4daa9129d1)
+ ![image](https://github.com/user-attachments/assets/e84c6868-17fd-4547-a9e4-37824c8acdc3)
 
 
-Set ownership to respective users and Restrict permissions (only user can access)
-
-![Screenshot from 2025-05-24 09-55-04](https://github.com/user-attachments/assets/d4f39304-b273-4532-8321-d5fc8e8cf55a)
-
-
-Set password expiration to 30 days
-
-![image](https://github.com/user-attachments/assets/cf01664d-0fa9-4ca8-8c45-1f9e56065afe)
-
+**Task 2: User Management and Access Control**
  
-Enforce Password Complexity with PAM
+ Creating Isolated working Directory 
+  ![image](https://github.com/user-attachments/assets/2b3d4ce0-d5cb-4225-a687-c8fc2fc85f90)
+ 
+ Enabling Security policies with PAM- utilities
+  ![image](https://github.com/user-attachments/assets/c14abf47-eab4-4262-b1b5-70c45a2fa0ec)
+ 
+ Enforce Password Policy to expire 30 days
+  ![Screenshot from 2025-05-25 03-20-07](https://github.com/user-attachments/assets/77ed715f-d364-4db2-b12b-7dcd097a02f5)
+ 
 
-![image](https://github.com/user-attachments/assets/f4da23d3-a1bf-4319-ae56-2c1845259f98)
 
-    minlen=10: Minimum 10 characters    
-    ucredit=-1: At least 1 uppercase letter    
-    lcredit=-1: At least 1 lowercase letter    
-    dcredit=-1: At least 1 digit    
-    ocredit=-1: At least 1 special character
 
+**Task 3: Backup Configuration for Web Servers**
