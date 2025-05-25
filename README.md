@@ -1,6 +1,8 @@
 # Linux_Testing_Automation
   Linux_Testing_Automation
 
+Note: I have encountered permission issues to create crontab for both user durint Task-3 , enabled sudo permission on sudoers file.
+Tar command required sudo permission, modified scripts with added sudo command.
 
 **Task 1: System Monitoring Setup**
 
@@ -29,6 +31,11 @@ Created crontab for both sarah and mike to run ecery 15 mins to capture logs
 
 ![image](https://github.com/user-attachments/assets/3a27f176-7778-4f97-9f42-46fe513ed853)
 
-Created Backup_script on their individual home directory
+Created Backup_script on their individual home directory and tested the output.
 
 ![image](https://github.com/user-attachments/assets/300a3695-4f80-451e-a310-30578fc7b48b)
+
+Backups are successfully validated for Sarah 
+
+![image](https://github.com/user-attachments/assets/301ba438-fecf-4967-9111-4105951d091a)
+
