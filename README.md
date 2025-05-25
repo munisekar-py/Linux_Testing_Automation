@@ -29,7 +29,8 @@ Created 2 web servers for sarah and mike
 
 Created crontab for both sarah and mike to run ecery 15 mins to capture logs
 
-![image](https://github.com/user-attachments/assets/3a27f176-7778-4f97-9f42-46fe513ed853)
+![image](https://github.com/user-attachments/assets/cbb28268-3e4d-4df2-9bfc-550f29be303a)
+
 
 Created Backup_script on their individual home directory and tested the output.
 
