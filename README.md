@@ -6,10 +6,11 @@ Tar command required sudo permission, modified scripts with added sudo command.
 
 **Task 1: System Monitoring Setup**
 
- ![image](https://github.com/user-attachments/assets/e84c6868-17fd-4547-a9e4-37824c8acdc3)
+   ![image](https://github.com/user-attachments/assets/e84c6868-17fd-4547-a9e4-37824c8acdc3)
 
 Output 
-![image](https://github.com/user-attachments/assets/11743a56-6c9b-4649-ae7f-5ef673613847)
+
+  ![image](https://github.com/user-attachments/assets/11743a56-6c9b-4649-ae7f-5ef673613847)
 
 
 **Task 2: User Management and Access Control**
