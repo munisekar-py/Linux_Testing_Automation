@@ -14,13 +14,19 @@
  Creating Isolated working Directory 
   ![image](https://github.com/user-attachments/assets/2b3d4ce0-d5cb-4225-a687-c8fc2fc85f90)
  
- Enabling Security policies with PAM- utilities
-  ![image](https://github.com/user-attachments/assets/c14abf47-eab4-4262-b1b5-70c45a2fa0ec)
+ Enabling Security policies with PAM- utilities &  Enforce Password Policy to expire 30 days
  
- Enforce Password Policy to expire 30 days
   ![Screenshot from 2025-05-25 03-20-07](https://github.com/user-attachments/assets/77ed715f-d364-4db2-b12b-7dcd097a02f5)
  
 
 
-
 **Task 3: Backup Configuration for Web Servers**
+
+
+Created 2 web servers for sarah and mike
+
+![image](https://github.com/user-attachments/assets/5b6f3cba-46e5-434f-89d7-9733f4590bfb)
+
+Created crontab for both sarah and mike to run ecery 15 mins to capture logs
+
+![image](https://github.com/user-attachments/assets/3a27f176-7778-4f97-9f42-46fe513ed853)
