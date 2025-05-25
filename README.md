@@ -34,7 +34,9 @@ Created crontab for both sarah and mike to run ecery 15 mins to capture logs
 
 Created Backup_script on their individual home directory and tested the output.
 
-![image](https://github.com/user-attachments/assets/300a3695-4f80-451e-a310-30578fc7b48b)
+![image](https://github.com/user-attachments/assets/f6240f3a-a9e6-4f32-b517-38714e4004c7)
+![image](https://github.com/user-attachments/assets/5a681bf9-e5f2-4066-bc9b-23026ee539ae)
+
 
 Backups are successfully validated for Sarah 
 
