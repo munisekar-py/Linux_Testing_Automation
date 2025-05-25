@@ -4,8 +4,6 @@
 
 **Task 1: System Monitoring Setup**
 
-
-
  ![image](https://github.com/user-attachments/assets/e84c6868-17fd-4547-a9e4-37824c8acdc3)
 
 
@@ -30,3 +28,7 @@ Created 2 web servers for sarah and mike
 Created crontab for both sarah and mike to run ecery 15 mins to capture logs
 
 ![image](https://github.com/user-attachments/assets/3a27f176-7778-4f97-9f42-46fe513ed853)
+
+Created Backup_script on their individual home directory
+
+![image](https://github.com/user-attachments/assets/300a3695-4f80-451e-a310-30578fc7b48b)
