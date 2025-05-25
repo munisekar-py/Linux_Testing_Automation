@@ -31,7 +31,7 @@ Created 2 web servers for sarah and mike
 
 ![image](https://github.com/user-attachments/assets/5b6f3cba-46e5-434f-89d7-9733f4590bfb)
 
-Created crontab for both sarah and mike to run ecery 15 mins to capture logs
+Schedule the backups to run every Tuesday at 12:00 AM using cron jobs.
 
 ![image](https://github.com/user-attachments/assets/cbb28268-3e4d-4df2-9bfc-550f29be303a)
 
